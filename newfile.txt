@@ -5,4 +5,4 @@ New file version3
 Addded version4
 Updated with ver5 for conflict
 Add version5 for confliect demo from github
-
+Adde ver6 from cmd line
